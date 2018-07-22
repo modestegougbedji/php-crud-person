@@ -1,6 +1,6 @@
 # TP PHP 
 
-> Une application php pour faire le CRUD sur une entité personne
+> Un TP php pour faire le CRUD sur une entité personne
 
 ## Build Setup
 1- Le fichier action.php contient les types d'actions permettant d'inserer, mettre a jour, supprimer ou afficher une personne
